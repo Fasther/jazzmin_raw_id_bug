@@ -1,6 +1,13 @@
 # Admin InLine/raw_id_field select bug
 
+## How to run this test app
+1. Optional: create venv
+2. Install required packages: `pip install -r requirements.txt` - all required packages will be installed with jazzmin
+3. Run server: `python manage.py runserver`
+
+
 ## Login details
+_sqlite db is pre-created for you :)_
 Login details:
 Login: jazzmin
 Pass: test
